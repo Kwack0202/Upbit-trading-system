@@ -1,0 +1,3 @@
+conda activate upbit
+cd C:\python_code\UPBIT
+python __init__.py
